@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Cuack_Assets.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Cuack DOWN0000" x="3409" y="644" width="462" height="574" frameX="0" frameY="-16" frameWidth="463" frameHeight="590"/>
+	<SubTexture name="Cuack DOWN0001" x="3409" y="644" width="462" height="574" frameX="0" frameY="-16" frameWidth="463" frameHeight="590"/>
+	<SubTexture name="Cuack DOWN0002" x="2937" y="644" width="462" height="586" frameX="-1" frameY="-4" frameWidth="463" frameHeight="590"/>
+	<SubTexture name="Cuack DOWN0003" x="2937" y="644" width="462" height="586" frameX="-1" frameY="-4" frameWidth="463" frameHeight="590"/>
+	<SubTexture name="Cuack DOWN0004" x="2465" y="644" width="462" height="589" frameX="-1" frameY="-1" frameWidth="463" frameHeight="590"/>
+	<SubTexture name="Cuack DOWN0005" x="2465" y="644" width="462" height="589" frameX="-1" frameY="-1" frameWidth="463" frameHeight="590"/>
+	<SubTexture name="Cuack DOWN0006" x="1993" y="644" width="462" height="590" frameX="-1" frameY="0" frameWidth="463" frameHeight="590"/>
+	<SubTexture name="Cuack DOWN0007" x="1993" y="644" width="462" height="590" frameX="-1" frameY="0" frameWidth="463" frameHeight="590"/>
+	<SubTexture name="Cuack DOWN0008" x="1993" y="644" width="462" height="590" frameX="-1" frameY="0" frameWidth="463" frameHeight="590"/>
+	<SubTexture name="Cuack DOWN0009" x="1993" y="644" width="462" height="590" frameX="-1" frameY="0" frameWidth="463" frameHeight="590"/>
+	<SubTexture name="Cuack DOWN0010" x="1993" y="644" width="462" height="590" frameX="-1" frameY="0" frameWidth="463" frameHeight="590"/>
+	<SubTexture name="Cuack DOWN0011" x="1993" y="644" width="462" height="590" frameX="-1" frameY="0" frameWidth="463" frameHeight="590"/>
+	<SubTexture name="Cuack DOWN0012" x="1993" y="644" width="462" height="590" frameX="-1" frameY="0" frameWidth="463" frameHeight="590"/>
+	<SubTexture name="Cuack DOWN0013" x="1993" y="644" width="462" height="590" frameX="-1" frameY="0" frameWidth="463" frameHeight="590"/>
+	<SubTexture name="Cuack DOWN0014" x="1993" y="644" width="462" height="590" frameX="-1" frameY="0" frameWidth="463" frameHeight="590"/>
+	<SubTexture name="Cuack DOWN0015" x="1993" y="644" width="462" height="590" frameX="-1" frameY="0" frameWidth="463" frameHeight="590"/>
+	<SubTexture name="Cuack IDLE0000" x="2465" y="1243" width="350" height="623" frameX="0" frameY="-17" frameWidth="350" frameHeight="640"/>
+	<SubTexture name="Cuack IDLE0001" x="1874" y="1244" width="350" height="623" frameX="0" frameY="-17" frameWidth="350" frameHeight="640"/>
+	<SubTexture name="Cuack IDLE0002" x="1874" y="1244" width="350" height="623" frameX="0" frameY="-17" frameWidth="350" frameHeight="640"/>
+	<SubTexture name="Cuack IDLE0003" x="2937" y="1240" width="346" height="638" frameX="-3" frameY="-2" frameWidth="350" frameHeight="640"/>
+	<SubTexture name="Cuack IDLE0004" x="2937" y="1240" width="346" height="638" frameX="-3" frameY="-2" frameWidth="350" frameHeight="640"/>
+	<SubTexture name="Cuack IDLE0005" x="3409" y="1228" width="346" height="639" frameX="-3" frameY="-1" frameWidth="350" frameHeight="640"/>
+	<SubTexture name="Cuack IDLE0006" x="3409" y="1228" width="346" height="639" frameX="-3" frameY="-1" frameWidth="350" frameHeight="640"/>
+	<SubTexture name="Cuack IDLE0007" x="1132" y="652" width="346" height="640" frameX="-3" frameY="0" frameWidth="350" frameHeight="640"/>
+	<SubTexture name="Cuack IDLE0008" x="1132" y="652" width="346" height="640" frameX="-3" frameY="0" frameWidth="350" frameHeight="640"/>
+	<SubTexture name="Cuack IDLE0009" x="1132" y="652" width="346" height="640" frameX="-3" frameY="0" frameWidth="350" frameHeight="640"/>
+	<SubTexture name="Cuack IDLE0010" x="1132" y="652" width="346" height="640" frameX="-3" frameY="0" frameWidth="350" frameHeight="640"/>
+	<SubTexture name="Cuack IDLE0011" x="1132" y="652" width="346" height="640" frameX="-3" frameY="0" frameWidth="350" frameHeight="640"/>
+	<SubTexture name="Cuack IDLE0012" x="1132" y="652" width="346" height="640" frameX="-3" frameY="0" frameWidth="350" frameHeight="640"/>
+	<SubTexture name="Cuack IDLE0013" x="1132" y="652" width="346" height="640" frameX="-3" frameY="0" frameWidth="350" frameHeight="640"/>
+	<SubTexture name="Cuack LEFT0000" x="10" y="10" width="490" height="632"/>
+	<SubTexture name="Cuack LEFT0001" x="10" y="10" width="490" height="632"/>
+	<SubTexture name="Cuack LEFT0002" x="510" y="10" width="486" height="632" frameX="0" frameY="0" frameWidth="490" frameHeight="632"/>
+	<SubTexture name="Cuack LEFT0003" x="510" y="10" width="486" height="632" frameX="0" frameY="0" frameWidth="490" frameHeight="632"/>
+	<SubTexture name="Cuack LEFT0004" x="1500" y="10" width="483" height="631" frameX="0" frameY="-1" frameWidth="490" frameHeight="632"/>
+	<SubTexture name="Cuack LEFT0005" x="1500" y="10" width="483" height="631" frameX="0" frameY="-1" frameWidth="490" frameHeight="632"/>
+	<SubTexture name="Cuack LEFT0006" x="1006" y="10" width="484" height="632" frameX="0" frameY="0" frameWidth="490" frameHeight="632"/>
+	<SubTexture name="Cuack LEFT0007" x="1006" y="10" width="484" height="632" frameX="0" frameY="0" frameWidth="490" frameHeight="632"/>
+	<SubTexture name="Cuack LEFT0008" x="1006" y="10" width="484" height="632" frameX="0" frameY="0" frameWidth="490" frameHeight="632"/>
+	<SubTexture name="Cuack LEFT0009" x="1006" y="10" width="484" height="632" frameX="0" frameY="0" frameWidth="490" frameHeight="632"/>
+	<SubTexture name="Cuack LEFT0010" x="1006" y="10" width="484" height="632" frameX="0" frameY="0" frameWidth="490" frameHeight="632"/>
+	<SubTexture name="Cuack LEFT0011" x="1006" y="10" width="484" height="632" frameX="0" frameY="0" frameWidth="490" frameHeight="632"/>
+	<SubTexture name="Cuack LEFT0012" x="1006" y="10" width="484" height="632" frameX="0" frameY="0" frameWidth="490" frameHeight="632"/>
+	<SubTexture name="Cuack LEFT0013" x="1006" y="10" width="484" height="632" frameX="0" frameY="0" frameWidth="490" frameHeight="632"/>
+	<SubTexture name="Cuack LEFT0014" x="1006" y="10" width="484" height="632" frameX="0" frameY="0" frameWidth="490" frameHeight="632"/>
+	<SubTexture name="Cuack LEFT0015" x="1006" y="10" width="484" height="632" frameX="0" frameY="0" frameWidth="490" frameHeight="632"/>
+	<SubTexture name="Cuack LEFT0016" x="1006" y="10" width="484" height="632" frameX="0" frameY="0" frameWidth="490" frameHeight="632"/>
+	<SubTexture name="Cuack LEFT0017" x="1006" y="10" width="484" height="632" frameX="0" frameY="0" frameWidth="490" frameHeight="632"/>
+	<SubTexture name="Cuack LEFT0018" x="1006" y="10" width="484" height="632" frameX="0" frameY="0" frameWidth="490" frameHeight="632"/>
+	<SubTexture name="Cuack RIGHT0000" x="1993" y="10" width="487" height="624"/>
+	<SubTexture name="Cuack RIGHT0001" x="1993" y="10" width="487" height="624"/>
+	<SubTexture name="Cuack RIGHT0002" x="3479" y="10" width="483" height="624" frameX="0" frameY="0" frameWidth="487" frameHeight="624"/>
+	<SubTexture name="Cuack RIGHT0003" x="3479" y="10" width="483" height="624" frameX="0" frameY="0" frameWidth="487" frameHeight="624"/>
+	<SubTexture name="Cuack RIGHT0004" x="2985" y="10" width="484" height="624" frameX="0" frameY="0" frameWidth="487" frameHeight="624"/>
+	<SubTexture name="Cuack RIGHT0005" x="2985" y="10" width="484" height="624" frameX="0" frameY="0" frameWidth="487" frameHeight="624"/>
+	<SubTexture name="Cuack RIGHT0006" x="2490" y="10" width="485" height="624" frameX="0" frameY="0" frameWidth="487" frameHeight="624"/>
+	<SubTexture name="Cuack RIGHT0007" x="2490" y="10" width="485" height="624" frameX="0" frameY="0" frameWidth="487" frameHeight="624"/>
+	<SubTexture name="Cuack RIGHT0008" x="2490" y="10" width="485" height="624" frameX="0" frameY="0" frameWidth="487" frameHeight="624"/>
+	<SubTexture name="Cuack RIGHT0009" x="2490" y="10" width="485" height="624" frameX="0" frameY="0" frameWidth="487" frameHeight="624"/>
+	<SubTexture name="Cuack RIGHT0010" x="2490" y="10" width="485" height="624" frameX="0" frameY="0" frameWidth="487" frameHeight="624"/>
+	<SubTexture name="Cuack RIGHT0011" x="2490" y="10" width="485" height="624" frameX="0" frameY="0" frameWidth="487" frameHeight="624"/>
+	<SubTexture name="Cuack RIGHT0012" x="2490" y="10" width="485" height="624" frameX="0" frameY="0" frameWidth="487" frameHeight="624"/>
+	<SubTexture name="Cuack RIGHT0013" x="2490" y="10" width="485" height="624" frameX="0" frameY="0" frameWidth="487" frameHeight="624"/>
+	<SubTexture name="Cuack RIGHT0014" x="2490" y="10" width="485" height="624" frameX="0" frameY="0" frameWidth="487" frameHeight="624"/>
+	<SubTexture name="Cuack RIGHT0015" x="2490" y="10" width="485" height="624" frameX="0" frameY="0" frameWidth="487" frameHeight="624"/>
+	<SubTexture name="Cuack UP0000" x="1500" y="651" width="364" height="725"/>
+	<SubTexture name="Cuack UP0001" x="1500" y="651" width="364" height="725"/>
+	<SubTexture name="Cuack UP0002" x="10" y="652" width="364" height="708" frameX="0" frameY="-17" frameWidth="364" frameHeight="725"/>
+	<SubTexture name="Cuack UP0003" x="10" y="652" width="364" height="708" frameX="0" frameY="-17" frameWidth="364" frameHeight="725"/>
+	<SubTexture name="Cuack UP0004" x="758" y="652" width="364" height="705" frameX="0" frameY="-20" frameWidth="364" frameHeight="725"/>
+	<SubTexture name="Cuack UP0005" x="758" y="652" width="364" height="705" frameX="0" frameY="-20" frameWidth="364" frameHeight="725"/>
+	<SubTexture name="Cuack UP0006" x="384" y="652" width="364" height="706" frameX="0" frameY="-19" frameWidth="364" frameHeight="725"/>
+	<SubTexture name="Cuack UP0007" x="384" y="652" width="364" height="706" frameX="0" frameY="-19" frameWidth="364" frameHeight="725"/>
+	<SubTexture name="Cuack UP0008" x="384" y="652" width="364" height="706" frameX="0" frameY="-19" frameWidth="364" frameHeight="725"/>
+	<SubTexture name="Cuack UP0009" x="384" y="652" width="364" height="706" frameX="0" frameY="-19" frameWidth="364" frameHeight="725"/>
+	<SubTexture name="Cuack UP0010" x="384" y="652" width="364" height="706" frameX="0" frameY="-19" frameWidth="364" frameHeight="725"/>
+	<SubTexture name="Cuack UP0011" x="384" y="652" width="364" height="706" frameX="0" frameY="-19" frameWidth="364" frameHeight="725"/>
+	<SubTexture name="Cuack UP0012" x="384" y="652" width="364" height="706" frameX="0" frameY="-19" frameWidth="364" frameHeight="725"/>
+	<SubTexture name="Cuack UP0013" x="384" y="652" width="364" height="706" frameX="0" frameY="-19" frameWidth="364" frameHeight="725"/>
+	<SubTexture name="Cuack UP0014" x="384" y="652" width="364" height="706" frameX="0" frameY="-19" frameWidth="364" frameHeight="725"/>
+	<SubTexture name="Cuack UP0015" x="384" y="652" width="364" height="706" frameX="0" frameY="-19" frameWidth="364" frameHeight="725"/>
+</TextureAtlas>

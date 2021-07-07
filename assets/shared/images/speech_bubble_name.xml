@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="speech_bubble_name.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Namebubble0000" x="0" y="0" width="340" height="126"/>
+	<SubTexture name="Namebubble0001" x="340" y="0" width="340" height="126"/>
+	<SubTexture name="Namebubble0002" x="680" y="0" width="340" height="126"/>
+	<SubTexture name="Namebubble0003" x="0" y="126" width="340" height="126"/>
+	<SubTexture name="Namebubble0004" x="340" y="126" width="340" height="126"/>
+	<SubTexture name="Namebubble0005" x="680" y="126" width="340" height="126"/>
+</TextureAtlas>
